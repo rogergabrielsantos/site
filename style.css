@@ -1,0 +1,42 @@
+body{
+  padding: 0px;
+  margin: 0px;
+
+}
+
+#container{
+  margin: 10%;
+  border: 1px solid black;
+  text-align: center;  
+  font: normal 15px Arial;
+  padding: 10px;
+  min-width: 200px;
+
+}
+
+#section{
+  border: 1px solid black;
+ font: normal 20px Arial;
+  margin: auto;
+  padding: 10px;
+
+}
+input{
+  margin-top: 5px;
+  height: 20px;
+}
+.btn{
+  width: 37px;
+ 
+}
+
+.btn0{
+  width: 79px;
+}
+
+#calculadora{
+  border: 1px solid red;
+  width: 180px;
+  margin: auto;
+
+}
